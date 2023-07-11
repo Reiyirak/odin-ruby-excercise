@@ -1,10 +1,11 @@
 def nil_array(number)
   # return an array containing `nil` the given number of times
-  number = [nil]
+  Array.new(number, nil)
 end
 
 def first_element(array)
   # return the first element of the array
+  array.first()
 end
 
 def third_element(array)
