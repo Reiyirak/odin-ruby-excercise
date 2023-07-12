@@ -51,7 +51,7 @@ tests in that file.
 
 #### 9.Debugging
 
-- [ ] Debugging Exercises
+- [x] Debugging Exercises
 
 #### 10.Basic Enumerables
 
