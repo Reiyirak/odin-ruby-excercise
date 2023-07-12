@@ -47,7 +47,7 @@ tests in that file.
 
 #### 8.Methods
 
-- [ ] Method Exercises
+- [x] Method Exercises
 
 #### 9.Debugging
 
