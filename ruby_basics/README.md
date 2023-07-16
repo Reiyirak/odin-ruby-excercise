@@ -55,7 +55,7 @@ tests in that file.
 
 #### 10.Basic Enumerables
 
-- [ ] Basic Enumerable Exercises
+- [x] Basic Enumerable Exercises
 
 #### 11.Predicate Enumerables
 
