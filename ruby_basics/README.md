@@ -59,7 +59,7 @@ tests in that file.
 
 #### 11.Predicate Enumerables
 
-- [ ] Predicate Enumerable Exercises
+- [x] Predicate Enumerable Exercises
 
 #### 12.Nested Collections
 
