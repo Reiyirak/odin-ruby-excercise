@@ -63,4 +63,4 @@ tests in that file.
 
 #### 12.Nested Collections
 
-- [ ] Nested Collection Exercises
+- [x] Nested Collection Exercises
